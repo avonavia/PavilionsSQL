@@ -1,0 +1,33 @@
+﻿<Window x:Class="PavillionsSQL.PavillionListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PavillionsSQL"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Бронирование Павильонов" Height="450" Width="800">
+    <Grid Background="#FFECDFD9">
+        <Image Source="Эмблема.png" MaxHeight="88" MaxWidth="78" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,1,0,0" Width="74" Height="46"/>
+        <Button x:Name="back_button" Content="Назад" HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="64" Margin="10,50,0,0" Background="#FFDCA593" Foreground="#FF3C3C3C" FontSize="15" FontWeight="Bold" FontFamily="Proxima Nova" Click="back_button_Click"/>
+        <DataGrid x:Name="PavGrid" SelectionMode="Extended" SelectionUnit="FullRow" AutoGenerateColumns ="False" IsReadOnly="True" Height="250" MaxHeight="250" Width="600" MaxWidth="600" FontSize="13" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,50,20,0" SelectedCellsChanged="PavGrid_SelectedCellsChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding PavNO}" Header="Павильон"/>
+                <DataGridTextColumn Binding="{Binding ShopName}" Header="ТЦ"/>
+                <DataGridTextColumn Binding="{Binding Floor}" Header="Этаж"/>
+                <DataGridTextColumn Binding="{Binding PavStatus}" Header="Статус"/>
+                <DataGridTextColumn Binding="{Binding Square}" Header="Площадь"/>
+                <DataGridTextColumn Binding="{Binding Cost}" Header="Стоимость"/>
+                <DataGridTextColumn Binding="{Binding Factor}" Header="Коэффициент"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox x:Name="ShopBox" Height="30" Width="130" MaxWidth="130" MaxHeight="30" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,100" SelectionChanged="ShopBox_SelectionChanged"/>
+        <Label Content="Выберите ТЦ:" HorizontalAlignment="Left" Height="24" MaxHeight="24" VerticalAlignment="Center" Width="100" MaxWidth="100" FontFamily="Proxima Nova" FontWeight="Bold" Margin="20,0,0,150"/>
+        <Button x:Name="booklist_button" Content="Перейти к Броням" HorizontalAlignment="Right" Height="36" MaxHeight="36" VerticalAlignment="Bottom" Width="200" MaxWidth="200" Margin="0,0,20,10" Background="#FFDCA593" Foreground="#FF3C3C3C" FontSize="15" FontWeight="Bold" FontFamily="Proxima Nova" Click="booklist_button_Click"/>
+        <Button x:Name="book_button" Content="Забронировать павильон" HorizontalAlignment="Right" Height="36" MaxHeight="36" VerticalAlignment="Top" Width="200" MaxWidth="200" Margin="0,60,20,0" Background="#FFDCA593" Foreground="#FF3C3C3C" FontSize="15" FontWeight="Bold" FontFamily="Proxima Nova" Click="book_button_Click"/>
+        <ComboBox x:Name="StatusBox" Height="30" Width="130" MaxWidth="130" MaxHeight="30" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,50,0,0"/>
+        <Label x:Name="statusLabel" Content="Статус:" HorizontalAlignment="Left" Height="24" MaxHeight="24" VerticalAlignment="Center" Width="100" MaxWidth="100" FontFamily="Proxima Nova" FontWeight="Bold" Margin="20,0,0,0"/>
+        <Button x:Name="status_change_button" Content="Изменить статус" HorizontalAlignment="Right" Height="36" MaxHeight="36" VerticalAlignment="Top" Width="200" MaxWidth="200" Margin="0,60,250,0" Background="#FFDCA593" Foreground="#FF3C3C3C" FontSize="15" FontWeight="Bold" FontFamily="Proxima Nova" Click="status_change_button_Click"/>
+        <Button x:Name="status_apply_button" Content="Принять" HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="70" Margin="50,270,0,0" Background="#FFDCA593" Foreground="#FF3C3C3C" FontSize="15" FontWeight="Bold" FontFamily="Proxima Nova" Click="status_apply_button_Click"/>
+    </Grid>
+</Window>

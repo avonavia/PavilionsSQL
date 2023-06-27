@@ -1,0 +1,52 @@
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.csproj.AssemblyReference.cache
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\MainWindow.g.cs
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\App.g.cs
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL_MarkupCompile.cache
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL_MarkupCompile.lref
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\bin\Debug\PavillionsSQL.exe.config
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\bin\Debug\PavillionsSQL.exe
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\bin\Debug\PavillionsSQL.pdb
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\MainWindow.baml
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.g.resources
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.Properties.Resources.resources
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.csproj.GenerateResource.cache
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.csproj.CoreCompileInputs.cache
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.exe
+C:\Users\nyanp\source\repos\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.pdb
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\bin\Debug\PavillionsSQL.exe.config
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\bin\Debug\PavillionsSQL.exe
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\bin\Debug\PavillionsSQL.pdb
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.csproj.AssemblyReference.cache
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\ShopListWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\App.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL_MarkupCompile.cache
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL_MarkupCompile.lref
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\ShopListWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.g.resources
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.Properties.Resources.resources
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.csproj.GenerateResource.cache
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.csproj.CoreCompileInputs.cache
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.exe
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsSQL.pdb
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\LoginWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\LoginWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\EmployeeWorkspaceWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\EmployeeWorkspaceWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\ShopInfoWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\ShopInfoWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionsWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionRedactAddWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionRedactAddWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\ShopRedactAddWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\ShopRedactAddWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionListWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\PavillionListWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\BookingListWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\BookingListWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\BookingRedactAddWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\BookingRedactAddWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\TenantListWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\TenantListWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\TenantRedactAddWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Павильоны\Приложение\PavillionsSQL\PavillionsSQL\obj\Debug\TenantRedactAddWindow.baml

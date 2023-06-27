@@ -1,0 +1,23 @@
+﻿<Window x:Class="PavillionsSQL.TenantRedactAddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PavillionsSQL"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Добавление/Редактирование Арендатора" Height="450" Width="800">
+    <Grid Background="#FFECDFD9">
+        <TextBox x:Name="NameBox" HorizontalAlignment="Center" Height="29" TextWrapping="Wrap" VerticalAlignment="Center" Width="119" Margin="0,0,0,150"/>
+        <TextBox x:Name="PhoneBox" HorizontalAlignment="Center" Height="29" TextWrapping="Wrap" VerticalAlignment="Center" Width="119" Margin="0,0,0,50"/>
+        <TextBox x:Name="AddressBox" HorizontalAlignment="Center" Height="29" TextWrapping="Wrap" VerticalAlignment="Center" Width="119" Margin="0,50,0,0" />
+        <TextBox x:Name="FieldBox" HorizontalAlignment="Center" Height="29" TextWrapping="Wrap" VerticalAlignment="Center" Width="119" Margin="0,150,0,0" />
+        <Label Content="Название:" HorizontalAlignment="Center" Height="24" MaxHeight="24" VerticalAlignment="Center" Width="70" MaxWidth="70" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,0,200,150"/>
+        <Label Content="Номер:" HorizontalAlignment="Center" Height="24" MaxHeight="24" VerticalAlignment="Center" Width="60" MaxWidth="60" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,0,180,50" />
+        <Label Content="Адрес:" HorizontalAlignment="Center" Height="24" MaxHeight="24" VerticalAlignment="Center" Width="50" MaxWidth="50" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,50,180,0" />
+        <Label Content="Сфера услуг:" HorizontalAlignment="Center" Height="24" MaxHeight="24" VerticalAlignment="Center" Width="90" MaxWidth="90" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,150,210,0"/>
+        <Button x:Name="enter_button" Content="Принять" HorizontalAlignment="Center" Height="36" VerticalAlignment="Bottom" Width="75" Background="#FFDCA593" Foreground="#FF3C3C3C" FontSize="15" FontWeight="Bold" FontFamily="Proxima Nova" Click="enter_button_Click" Margin="0,0,0,50"/>
+        <Image Source="Эмблема.png" MaxHeight="88" MaxWidth="78" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,1,0,0" Width="74" Height="46"/>
+        <Button x:Name="back_button" Content="Назад" HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="64" Margin="10,50,0,0" Background="#FFDCA593" Foreground="#FF3C3C3C" FontSize="15" FontWeight="Bold" FontFamily="Proxima Nova" Click="back_button_Click"/>
+    </Grid>
+</Window>

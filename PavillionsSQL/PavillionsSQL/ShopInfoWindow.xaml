@@ -1,0 +1,25 @@
+﻿<Window x:Class="PavillionsSQL.ShopInfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PavillionsSQL"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Информация о ТЦ" Height="450" Width="800">
+    <Grid Background="#FFECDFD9">
+        <Rectangle Fill="#FFDCA593" HorizontalAlignment="Right" Height="290" Stroke="Black" VerticalAlignment="Top" Width="398" Margin="0,45,20,0"/>
+        <Image Source="Эмблема.png" MaxHeight="88" MaxWidth="78" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,1,0,0" Width="74" Height="46"/>
+        <Button x:Name="back_button" Content="Назад" HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="64" Margin="10,50,0,0" Background="#FFDCA593" Foreground="#FF3C3C3C" FontSize="15" FontWeight="Bold" FontFamily="Proxima Nova" Click="back_button_Click"/>
+        <Image x:Name="image" Source="{Binding Photo}" Height="250" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.RowSpan="13" Grid.Column="0" Margin="10,160,0,0"/>
+        <Label x:Name="NameLabel" Content="Название: " HorizontalAlignment="Left" Height="35" MaxHeight="35" VerticalAlignment="Top" Width="350" MaxWidth="350" FontFamily="Proxima Nova" FontWeight="Bold" Margin="10,120,0,0" FontSize="15" Foreground="#FF3C3C3C"/>
+        <Label x:Name="StatusLabel" Content="Статус: " HorizontalAlignment="Right" Height="35" MaxHeight="35" VerticalAlignment="Top" Width="350" MaxWidth="350" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,50,50,0" FontSize="15" Foreground="#FF3C3C3C"/>
+        <Label x:Name="PavCountLabel" Content="Количество павильонов: " HorizontalAlignment="Right" Height="35" MaxHeight="35" VerticalAlignment="Top" Width="350" MaxWidth="350" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,100,50,0" FontSize="15" Foreground="#FF3C3C3C"/>
+        <Label x:Name="CityLabel" Content="Город: " HorizontalAlignment="Right" Height="35" MaxHeight="35" VerticalAlignment="Top" Width="350" MaxWidth="350" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,150,50,0" FontSize="15" Foreground="#FF3C3C3C"/>
+        <Label x:Name="ShopCostLabel" Content="Стоимость ТЦ: " HorizontalAlignment="Right" Height="35" MaxHeight="35" VerticalAlignment="Top" Width="350" MaxWidth="350" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,200,50,0" FontSize="15" Foreground="#FF3C3C3C"/>
+        <Label x:Name="FactorLabel" Content="Коэффициент: " HorizontalAlignment="Right" Height="35" MaxHeight="35" VerticalAlignment="Top" Width="350" MaxWidth="350" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,250,50,0" FontSize="15" Foreground="#FF3C3C3C"/>
+        <Label x:Name="FloorCountLabel" Content="Количество этажей: " HorizontalAlignment="Right" Height="35" MaxHeight="35" VerticalAlignment="Top" Width="350" MaxWidth="350" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,300,50,0" FontSize="15" Foreground="#FF3C3C3C"/>
+        <Button x:Name="pavillions_button" Content="Перейти к павильонам" HorizontalAlignment="Right" Height="36" VerticalAlignment="Bottom" Width="180" Margin="0,0,20,10" Background="#FFDCA593" Foreground="#FF3C3C3C" FontSize="15" FontWeight="Bold" FontFamily="Proxima Nova" Click="pavillions_button_Click"/>
+        <Button x:Name="redact_button" Content="Редактировать" HorizontalAlignment="Right" Height="36" VerticalAlignment="Bottom" Width="180" Margin="0,0,240,10" Background="#FFDCA593" Foreground="#FF3C3C3C" FontSize="15" FontWeight="Bold" FontFamily="Proxima Nova" Click="redact_button_Click"/>
+    </Grid>
+</Window>
